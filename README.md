@@ -1,3 +1,4 @@
-# IISc-Sem-1 
-MTech Artificial Intelligence 2025-2027
-Assignments and reports from Semester 1 IISc Bangalore
+# 📚 IISc Semester 1 Coursework
+
+This repository contains my laboratory assignments and coding solutions for the first semester at IISc.
+It covers coursework for **Computational Methods of Optimization (CMO)** and **Data Structures & Algorithms (DSA)**.
