@@ -1,4 +1,4 @@
-Implement the Heap data structure (Min-Heap) that supports the following operations:
+-Implement the Heap data structure (Min-Heap) that supports the following operations:
 
 Insert – Add an element to the heap while maintaining the heap property.
 Extract Min – Remove and return the minimum element from the heap.
@@ -65,4 +65,5 @@ None
 Sample Output 1
 
 2
+
 ___________________________________________
